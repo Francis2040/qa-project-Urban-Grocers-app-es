@@ -1,5 +1,5 @@
-.pytest/
-venv/
-.idea/
-.pytest_cache/
+```bash
 __pycache__/
+*.pyc
+.env
+.idea/
